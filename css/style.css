@@ -185,5 +185,6 @@ hr {
 }
 
 .mountain {
-    width: 100%;
+    max-width: 70%;
+    width: 70%;
 }
