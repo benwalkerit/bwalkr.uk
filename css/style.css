@@ -7,6 +7,10 @@ font-family: 'Montserrat', sans-serif;
 font-family: 'Sacramento', cursive;
 16pt : 100% : 1em
 */
+html,body{
+    overflow-x: hidden;
+}
+
 body {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
