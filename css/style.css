@@ -16,7 +16,6 @@ body {
 
 .top-container {
     background-image: linear-gradient(teal, #aaf0d1);
-    position: relative;
     padding-top: 100px;
     margin: 0px auto 0px auto;
 }
