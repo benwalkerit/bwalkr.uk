@@ -61,8 +61,8 @@ h2, h3 {
     
 }
 .skills-image1, .skills-image2 {
-    height: 25%;
-    width: 25%;
+    height: 15%;
+    width: 15%;
     border-radius: 100%;
 }
 .skills-image1 {
@@ -134,7 +134,7 @@ h2, h3 {
 
 .skill-row {
     position: relative;
-    width: 90%;
+    width: 75%;
     margin: 50px auto 50px auto;
     text-align: left;
     line-height: 2;
@@ -142,7 +142,8 @@ h2, h3 {
 }
 
 .bio {
-    margin: 0px 0px 30px  0px;
+    margin: 0px auto 30px  auto;
+    width: 75%;
 }
 
 .contact-me {
@@ -173,7 +174,7 @@ hr {
     border-width: 5px;
     height: 0px;
     width: 10%;
-    margin: 40px auto 40px auto;
+    margin: 60px auto 60px auto;
 }
 
 .bottom-text {
@@ -186,5 +187,5 @@ hr {
 
 .mountain {
     max-width: 70%;
-    width: 70%;
+    width: 40%;
 }
