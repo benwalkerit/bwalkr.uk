@@ -84,12 +84,16 @@ h2, h3 {
     position: absolute;
     left: 30%;
     bottom: 40%;
+    min-width: 20%;
+    max-width: 100%;
 }
 
 .top-cloud{
     position: absolute;
     right: 30%;
     top: 10%;
+    min-width: 20%;
+    max-width: 100%;
 }
 
 .profile-img {
